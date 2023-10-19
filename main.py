@@ -1,4 +1,4 @@
-import discord, asyncio, datetime, httpx, discordwebutils
+import discord, asyncio, datetime, httpx, discordwebutil
 from colorama import Fore, init; init()
 
 def getTime():
